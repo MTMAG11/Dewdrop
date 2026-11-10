@@ -1,0 +1,11 @@
+# build output
+*.app/
+dist/
+*.dSYM/
+.build/
+
+# macOS
+.DS_Store
+
+# local test data
+/data/
